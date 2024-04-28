@@ -1,5 +1,4 @@
 To jest plik testowy.
 To jest plik testowy.
 To jest plik testowy.
-To jest plik testowy.
-Dopiszę linijkę kolejną.
+Kolejna linijka.
